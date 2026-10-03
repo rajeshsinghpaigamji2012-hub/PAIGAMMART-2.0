@@ -1,0 +1,8 @@
+{
+  "name": "PaigamMart - Modern Indian E-Commerce Marketplace",
+  "description": "Premier multi-vendor Indian e-commerce marketplace featuring fast delivery, secure UPI/cards/COD payments, verified sellers, and real-time order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
